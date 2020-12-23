@@ -22,17 +22,25 @@ Interactive Prototype: https://www.figma.com/proto/sdwfzsFtP2nRhZLUTxuPMg/INFO-2
 
 ## Sample Images
 
+Wireframe: 
+
 <p>
   <img src="sample_images/wireframe.png" width="60%" alt="Wireframe">
 </p>
+
+Welcome screen:
 
 <p>
   <img src="sample_images/welcome_screen.png" width="60%" alt="Welcome screen view">
 </p>
 
+Login screen:
+
 <p>
   <img src="sample_images/login.png" width="60%" alt="Login screen view">
 </p>
+
+Home screen:
 
 <p>
   <img src="sample_images/home_screen.png" width="60%" alt="Home screen view">
